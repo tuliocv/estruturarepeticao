@@ -523,7 +523,7 @@ st.markdown(
     """
     <div class="hero">
         <h1>🔁 Java — Laboratório de Loops</h1>
-        <p>Prática progressiva para alunos iniciantes: do primeiro contato até desafios com aplicações reais.</p>
+        <p>Prática progressiva: do primeiro contato até desafios com aplicações reais.</p>
     </div>
     """,
     unsafe_allow_html=True,
