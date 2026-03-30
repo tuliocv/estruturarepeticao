@@ -530,8 +530,8 @@ st.markdown(
 )
 
 st.caption(
-    "App atualizado a partir do modelo anterior enviado por você, agora reorganizado para a aula de loops e prática progressiva em Java. "
-    "fileciteturn1file0"
+    ""
+    ""
 )
 
 if view == "Aluno":
